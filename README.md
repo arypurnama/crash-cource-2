@@ -1,1 +1,1 @@
-# crash-cource-2
+# crash-course-2
